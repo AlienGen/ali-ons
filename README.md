@@ -1,3 +1,5 @@
+Forked from original package to provide ``__SHARDINGKEY`` system prop support.
+
 ali-ons
 =======
 
